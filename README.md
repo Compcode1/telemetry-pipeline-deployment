@@ -36,7 +36,7 @@ LAB PRIMER: BUILDING AN IDENTITY SECURITY TELEMETRY PIPELINE
    * The identity data pipeline plumbing is 100% complete and green-lit.
    * The new Azure Log Analytics Workspace (LAW) database is going through a 
      standard background cold-start indexing cycle. 
-   * Moving forward, your long-term security logs will be safely duplicated 
+   * Moving forward, long-term security logs will be safely duplicated 
      into this permanent repository, isolated from potential directory modifications 
      and ready for advanced Kusto Query Language (KQL) analysis.
 ================================================================================
